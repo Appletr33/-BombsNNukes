@@ -1,0 +1,10 @@
+{
+  "nuke_explosion": {
+    "sounds": [
+      {
+        "name": "bombsnnukes:nuke_explosion",
+        "stream": false
+      }
+    ]
+  }
+}

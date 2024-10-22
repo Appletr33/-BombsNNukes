@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.xander.bombsnnukes.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "BombsnNukes.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "GameRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
